@@ -18,6 +18,7 @@
     <img src="https://badges.crowdin.net/alist/localized.svg">
   </a>
 </div>
+  
 <div>
   <a href="https://github.com/Xhofe/alist/discussions">
     <img src="https://img.shields.io/github/discussions/Xhofe/alist?color=%23ED8936" alt="discussions" />
